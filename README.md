@@ -1,0 +1,2 @@
+# whatsMissing
+badCodeAndWhyRefactor
